@@ -1,8 +1,10 @@
 # Repository for the paper "Ultrafast Traffic Nowcasting and Control via Differentiable Agent-based Simulation"
 ## About
+
 This repository contains the code and processed data used in the paper
 ["Ultrafast Traffic Nowcasting and Control via Differentiable Agent-based Simulation"
 ](https://arxiv.org/abs/2603.25068).
+
 ---
 ## Requirement
 The code was tested with the following package versions:
@@ -34,7 +36,9 @@ project and place them under:
 - `data/SiouxFalls/SiouxFalls_net.tntp`, `SiouxFalls_node.tntp`
 ---
 ## License
+
 See the LICENSE file for details.
+
 ---
 ## Citation
 
