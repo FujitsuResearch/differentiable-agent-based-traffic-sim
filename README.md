@@ -1,7 +1,7 @@
 # Repository for the paper "Ultrafast Traffic Nowcasting and Control via Differentiable Agent-based Simulation"
 ## About
 
-This repository contains the code and processed data used in the paper
+This repository contains the codes to reproduce the results in the paper
 ["Ultrafast Traffic Nowcasting and Control via Differentiable Agent-based Simulation"
 ](https://arxiv.org/abs/2603.25068).
 
